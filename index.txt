@@ -1,0 +1,213 @@
+Yashi Vaish - Portfolio.
+
+This is a personal portfolio html template
+
+
+
+#---------- HEADER ----------#
+
+alt = logo
+
+alt = logo
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+1.Home
+2.About
+3.Project
+4.Contact
+
+Get A Quote
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+aria-label = open menu
+
+
+
+#---------- Home ----------#
+
+alt = Yashi Vaish
+
+Yashi Vaish
+
+Get Your Product Identity From Me.
+
+Download CV
+<ion-icon name="cloud-download-outline" aria-hidden="true"></ion-icon>
+
+From device to cloud to edge Innovate from anywhere with secure
+
+
+
+#---------- SERVICE ----------#
+
+alt = service icon
+
+Web
+Development
+
+Data
+Analysis
+
+Computer
+Programmer
+
+Graphics
+Design
+
+
+
+#---------- ABOUT ----------#
+
+About Me
+Education
+Skillset
+Experience
+Achievement
+
+ABOUT TAB
+----------
+alt = about banner
+
+Hey I'm Yashi Vaish.
+
+I'm a Computer Science and Engineering student at Guru Gobind Singh Indraprastha University (2021-2025), with a keen interest in Web Development and Problem Solving using CPP. Computer Science is omnipresent; it is present in every field. Hence, I have spent my 3 years developing software skills.
+       
+
+Phone Number
+123. 456. 789. 01
+
+Email Address
+info@drew.com
+
+Social Network
+alt= social icon
+title = Linkedin
+ICON
+
+title = Github
+ICON
+
+title = Instagram
+ICON
+
+title = Linketree
+ICON
+
+EDUCATION
+-----------
+
+2021 - 2025
+Bachelor's of Technology(CSE)
+Dr. Akhilesh das Gupta Institute of Professional Studies,Delhi
+
+
+2018 - 2019
+XII Standard
+De Paul School,Budaun-U.P.
+
+2016 - 2017
+X Standard
+De Paul School,Budaun-U.P.
+
+
+SKILLSET TAB
+---------
+I have experience programming in various languages such as C, C++, Java, and Python. Additionally, I am familiar with web development. I have hands-on experience in making several projects, which have further honed my skills and understanding of the field.
+
+Cpp
+80%
+
+HTML+CSS
+
+
+MySql
+
+
+Python
+
+
+DSA
+
+
+alt = skill banner
+
+EXPERIENCE TAB
+-------------
+Data Analyst Intern(Offline) 
+HDFC ERGO General Insurance Company, New Delhi
+Aug 2023 - Sep 2023
+
+Web Development Intern(Online)
+CODSOFT
+Jul 2023 - Aug 2023
+alt = image
+
+
+//ACHIEVEMENT TAB
+----------
+
+
+
+
+#---------- CTA ----------#
+
+Let's Work Together On Your Next Project!
+
+Hire Me Now
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- PROJECTS ----------#
+
+alt = Project poster: Creative & experienced digital design studio
+
+Project Details
+
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Web, Product
+
+Creative & experienced digital design studio
+
+
+-Front End Development & Maintenance
+
+-Flutter Framework & Warframe Design
+
+-Full Web Development Project With JavaScript
+
+-Cloud Migration & AWS Services
+
+
+
+
+#---------- CONTACT ----------#
+
+
+alt = envelop icon
+
+If you like what you see, Let's work together.
+
+Have any questions? Reach out to me, i will get back to you shortly.
+
+Send message(mailto:yashi87vaish@gmail.com)
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FOOTER ----------#
+
+Copyright & Design By @yashivaish - 2024
+<ion-icon name="logo-linkedin" ></ion-icon>
+<ion-icon name="logo-Instagram" ></ion-icon>
+<ion-icon name="logo-Github" ></ion-icon>
+<ion-icon name="logo-mail-outline" ></ion-icon>
+
+Back To Top
+
+<ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
