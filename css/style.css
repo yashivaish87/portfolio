@@ -883,30 +883,14 @@ education
   display: flex;
   justify-content: center; 
   align-items: center; 
-  height: 90vh;  
-}
-
-.contact .container{
-  padding: auto;
-  margin: auto;
-  
-}
-.contact-content{
+  padding-bottom: 70px; 
   background-color: var(--bg-black);
-  padding: 32px;
-  border-radius: 8px;
-  gap: 40px;
-  height: 50vh;
+  border-block: 1px solid var(--border-white);
+  margin: 110px 0;  
 }
 
-.contact .card-icon{
-  float: left;
-  margin: 25px 15px;
-  padding: 2em 2em 0 1em;
-}
 
 .contact .section-title{
-  margin-block-start:20px ;
   font-family: var(--fontFamily-recoleta);
   color: var(--text-white);
   margin-inline: auto;
@@ -1084,7 +1068,7 @@ education
 
 
 
-@media(max-width: 768px){
+@media(width< 768px){
 
 /*
   HEADER
@@ -1108,13 +1092,20 @@ CONTACT
   .contact .btn{
     margin-inline:auto ;
   }
-
-  .contact-content{
-    height: 60vh;
-  }
   .contact .container{
     padding: 1px;
     margin: 20px;
+  }
+
+  .contact .card-icon{
+    display: flex;
+  justify-content: center;
+  align-items: center; 
+  }
+  .contact .section-title,
+  .contact .section-text{
+    text-align: center;
+    margin-top: 10px;
   }
 }
 
@@ -1231,8 +1222,17 @@ CONTACT
 
   .slider-item { min-width: calc(50% - 15px); }
 
+  /**
+   * CONTACT
+   */
+
+  .contact .card-icon{
+  float: left;
+  padding: 1em 2em 2em 1em;
+  }
+  
   .contact .btn{
-    margin-left: 160px ;
+    margin-left: 135px ;
   }
   .contact-content{
     padding: 20px 10px;
@@ -1392,9 +1392,6 @@ CONTACT
     gap: 10px;
   }
 
-  .contact .btn{
-    margin-left: 160px ;
-  }
 
 }
 
