@@ -1090,7 +1090,7 @@ education
 
 /*
   HEADER
-  */
+  
   .header{
     padding: 5px;
   }
@@ -1102,6 +1102,7 @@ education
   .nav-open-btn{
     align-self:flex-end;
   }
+  */
 
 /*   
 CONTACT
