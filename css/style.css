@@ -369,7 +369,6 @@ img.circular {
   background-color: var(--border-gainsboro);
   padding-block: 10px;
   z-index: 4;
-  box-sizing: border-box;
 }
 .header.active {
   position: fixed;
@@ -394,7 +393,6 @@ img.circular {
   display: flex;
   justify-content:space-between ;
   align-items: center;
-  width: 100%;
 }
 
 .nav-open-btn {
