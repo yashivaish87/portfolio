@@ -12,7 +12,7 @@ Website Using HTML, CSS, and JavaScript, with a wonderful user interface.
 - Contact
 
 <div align="center">
-<a href="https://yashivaish87.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+
 
 <p align="center"><b>If you found the code useful, please feel free to fork it and modify it as you see fit.</p? <br>
 </div>
