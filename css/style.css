@@ -806,7 +806,17 @@ education
 /*-----------------------------------*\
   #PROJECT
 \*-----------------------------------*/
-
+/*change*/
+.project-card .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+  min-width: max-content;
+  opacity: 0; 
+  transition: var(--transition-2);
+  z-index: 10; 
+}
 .project-card .card-banner::before {
   top: 0;
   left: 0;
@@ -831,7 +841,6 @@ education
 }
 
 .project-card .card-banner:is(:hover, :focus-within) .btn {
-  transform: translate(-50%, -50%);
   opacity: 1;
 }
 
