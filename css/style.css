@@ -162,6 +162,7 @@ body{
   font-size: var(--fontSize-8);
   line-height: 1.5; /*1.75 -gap btw lines*/
   overflow: hidden; /*overflow from padding box */
+  overflow-x: hidden;
 }
 body.loaded { overflow-y: auto; }
 
@@ -1097,7 +1098,7 @@ education
 
 
 
-@media(width< 768px){
+@media(max-width: 768px){
 
 /*
   HEADER
